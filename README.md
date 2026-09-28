@@ -1,5 +1,6 @@
-<h1 align="center">🌹 BLUE ROSE</h1>
-<p align="center"><sub><strong>SITES E AUTOMAÇÃO PRA NEGÓCIOS LOCAIS</strong> · Python · n8n · APIs · WordPress</sub></p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/banner.png" alt="BLUE ROSE — sites e automação pra negócios locais" width="100%" />
+</div>
 
 ### Oi, eu sou o Cauã 👋
 
