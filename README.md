@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/banner.png" alt="BLUE ROSE — sites e automação pra negócios locais" width="100%" />
+<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/banner.jpg" alt="BLUE ROSE — the blue rose has finally bloomed" width="100%" />
 </div>
 
 ### Oi, eu sou o Cauã 👋
