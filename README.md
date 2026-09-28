@@ -30,8 +30,8 @@ Sou desenvolvedor freelancer e cuido da **BLUE ROSE** — construo sites e autom
 ### 📊 GitHub
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CauaCaetano&show_icons=true&theme=transparent&hide_border=true&title_color=2F6F5E&icon_color=C4622D&text_color=1C2430" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCaetano&layout=compact&theme=transparent&hide_border=true&title_color=2F6F5E&text_color=1C2430" alt="Top langs" />
+<img src="https://img.shields.io/github/followers/CauaCaetano?style=for-the-badge&color=2F6F5E&labelColor=1C2430&label=followers" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=C4622D&labelColor=1C2430&label=reposit%C3%B3rios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCauaCaetano" alt="Repositórios" />
 </div>
 
 ### 📬 Fale comigo
