@@ -1,8 +1,5 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?size=26&duration=3000&pause=1200&color=2F6F5E&center=true&vCenter=true&width=650&lines=BLUE+ROSE+%E2%80%94+sites+e+automa%C3%A7%C3%A3o;Python+%C2%B7+n8n+%C2%B7+APIs+%C2%B7+WordPress;Sem+mensalidade.+Sem+enrola%C3%A7%C3%A3o." alt="Typing SVG" />
-
-</div>
+<h1 align="center">🌹 BLUE ROSE</h1>
+<p align="center"><sub><strong>SITES E AUTOMAÇÃO PRA NEGÓCIOS LOCAIS</strong> · Python · n8n · APIs · WordPress</sub></p>
 
 ### Oi, eu sou o Cauã 👋
 
