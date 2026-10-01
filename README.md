@@ -15,7 +15,7 @@ Sou desenvolvedor freelancer e cuido da **BLUE ROSE** — construo sites e autom
 
 **[BLUE ROSE — Sites e Automação](https://cauacaetano.github.io/blue-rose-automacao-express/)** — portfólio completo da BLUE ROSE: exemplos reais de site (clínica, fisioterapia, odontologia, salão/barbearia, personal trainer), cada um com calculadora de orçamento e agendamento embutidos.
 
-🌐 **[Ver os exemplos ao vivo](https://cauacaetano.github.io/blue-rose-automacao-express/)**
+🌐 **[Ver os exemplos ao vivo](cauacaetano.github.io/blue-rose-automacao-express/exemplos.html)**
 
 ### 🛠️ Stack
 
