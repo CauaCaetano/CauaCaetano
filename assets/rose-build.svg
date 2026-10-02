@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs><radialGradient id="bg"><stop stop-color="#0d2b55" stop-opacity=".8"/><stop offset="1" stop-color="#020817" stop-opacity=".15"/></radialGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>
+.r{transform-origin:600px 205px;animation:grow 6s ease-in-out infinite}.o{transform-origin:600px 205px;animation:spin 12s linear infinite}.o2{transform-origin:600px 205px;animation:spin 18s linear infinite reverse}.s{animation:twinkle 2s ease-in-out infinite}.p1{animation:appear 6s ease-in-out infinite}.p2{animation:appear 6s ease-in-out 1s infinite}.p3{animation:appear 6s ease-in-out 2s infinite}
+@keyframes grow{0%,15%{transform:scale(.25);opacity:0}35%,72%{transform:scale(1);opacity:1}100%{transform:scale(.25);opacity:0}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes twinkle{50%{opacity:.15;transform:scale(.5)}}@keyframes appear{0%,25%{opacity:0;transform:translateY(18px)}45%,75%{opacity:1;transform:translateY(0)}100%{opacity:0}}
+</style></defs>
+<rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+<g fill="#9be7ff"><circle class="s" cx="170" cy="80" r="3"/><circle class="s" cx="310" cy="320" r="2"/><circle class="s" cx="910" cy="90" r="3"/><circle class="s" cx="1030" cy="300" r="2"/><circle class="s" cx="770" cy="50" r="2"/></g>
+<g class="o" fill="none" stroke="#38bdf8" opacity=".45"><ellipse cx="600" cy="205" rx="300" ry="100"/><ellipse cx="600" cy="205" rx="390" ry="145"/></g>
+<g class="o2" fill="none" stroke="#8b5cf6" opacity=".25"><ellipse cx="600" cy="205" rx="260" ry="82"/></g>
+<g class="r" filter="url(#glow)" transform="translate(350 0)"><use href="rose-orbit.svg#x"/></g>
+<g class="r" transform="translate(340 0)"><path d="M600 72 C550 44 475 78 495 130 C430 105 395 168 450 201 C380 207 390 282 450 296 C402 334 455 395 510 370 C500 420 560 438 600 400 C640 438 700 420 690 370 C745 395 798 334 750 296 C810 282 820 207 750 201 C805 168 770 105 705 130 C725 78 650 44 600 72Z" fill="none" stroke="#38bdf8" stroke-width="8" opacity=".95"/></g>
+<g class="p1" fill="#63c5ff"><circle cx="470" cy="165" r="5"/><circle cx="735" cy="245" r="4"/><circle cx="515" cy="310" r="3"/></g>
+<g class="p2" fill="#a78bfa"><circle cx="700" cy="120" r="4"/><circle cx="420" cy="255" r="3"/></g>
+<g class="p3" fill="#e0f2fe"><circle cx="805" cy="190" r="3"/><circle cx="390" cy="120" r="3"/></g>
+<g text-anchor="middle" font-family="Arial,Helvetica,sans-serif"><text x="600" y="34" fill="#63c5ff" font-size="14" letter-spacing="6">BLUE ROSE // COSMIC BLOOM</text><text x="600" y="388" fill="#eaf6ff" font-size="22" letter-spacing="4">BUILD • AUTOMATE • CREATE</text></g>
+</svg>
