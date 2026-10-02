@@ -1,109 +1,87 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/cosmos-hero.svg" alt="Cauã Caetano — BLUE ROSE" width="100%" />
-
-</div>
-
-<div align="center">
-
-**AUTOMATION · SYSTEMS · WEB · AI**
-
-[🌹 BLUE ROSE](https://cauacaetano.github.io/blue-rose-automacao-express/) · [💻 GitHub](https://github.com/CauaCaetano) · [🌐 Live demos](https://cauacaetano.github.io/blue-rose-automacao-express/exemplos.html)
-
+<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/cosmos-banner.svg" alt="BLUE ROSE — Cosmic Developer Profile" width="100%" />
+<br/><br/>
+<a href="https://github.com/CauaCaetano"><img src="https://img.shields.io/badge/GITHUB-CauaCaetano-081B33?style=for-the-badge&logo=github&logoColor=EAF6FF" /></a>
+<a href="https://cauacaetano.github.io/blue-rose-automacao-express/"><img src="https://img.shields.io/badge/BLUE%20ROSE-PORTFOLIO-0B6E9E?style=for-the-badge&logo=google-chrome&logoColor=EAF6FF" /></a>
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/system-cosmos.svg" alt="System information" width="100%" />
+## ◈ CAUÃ CAETANO
 
-## ◈ ABOUT / BLUE ROSE
+> **Desenvolvedor freelancer • Automação • Web • IA**
 
-> **Construo sistemas que tiram trabalho manual do caminho.**
+Construo **sites e automações sob medida** para transformar tarefas repetitivas em processos simples, rápidos e escaláveis.
 
-Sou desenvolvedor freelancer e cuido da **BLUE ROSE** — construo sites, automações, integrações e soluções com IA para transformar processos repetitivos em sistemas utilizáveis.
+| ⚙️ AUTOMATION | 🌐 WEB | 🧠 AI & APIs |
+|:---:|:---:|:---:|
+| n8n • Python • Workflows | HTML • CSS • JavaScript | APIs • Integrações • LLMs |
 
-- ⚙️ **Automação:** n8n, Python, APIs e integrações
-- 🌐 **Web:** sites, landing pages e experiências com WhatsApp/agendamento
-- 🤖 **IA:** fluxos e sistemas com inteligência aplicada
-- 🧩 **Integrações:** conectar ferramentas, dados e processos
-- 🚀 **Entrega:** projetos práticos, testados e apresentados com demonstrações quando possível
+### SYSTEM.INFO
 
-## ◈ STACK / CORE
+**STATUS:** ONLINE  •  **SPECIALTY:** AUTOMATION + WEB  •  **CORE:** Python / JavaScript / n8n / APIs
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,wordpress,git,github&theme=dark" alt="Python, JavaScript, HTML, CSS, Node.js, WordPress, Git and GitHub" />
-
-</div>
-
-## ◈ PROJECTS / LIVE GRID
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌹 BLUE ROSE — Sites & Automação
-
-Portfólio comercial com exemplos de sites, calculadoras de orçamento, agendamento e contato.
-
-**[→ Abrir projeto](https://cauacaetano.github.io/blue-rose-automacao-express/)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 BLUE ROSE AI OFFICE
-
-Case interno de automação e agentes de IA. O projeto funciona como demonstração técnica da arquitetura e dos fluxos.
-
-**[→ Ver repositório](https://github.com/CauaCaetano/escritorio-blue-rose)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Automação & Integrações
-
-Scripts e experimentos com Python, APIs, WhatsApp e automação de processos.
-
-**[→ Explorar repositórios](https://github.com/CauaCaetano?tab=repositories)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Labs
-
-Projetos web, apps e experimentos que mostram evolução técnica e diferentes stacks.
-
-**[→ Ver projetos](https://github.com/CauaCaetano?tab=repositories)**
-
-</td>
-</tr>
-</table>
-
-## ◈ GITHUB / TELEMETRY
+## ◉ BLUE ROSE // FEATURED PROJECT
 
 <div align="center">
+### 🌹 [BLUE ROSE — Sites & Automação](https://cauacaetano.github.io/blue-rose-automacao-express/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=CauaCaetano&show_icons=true&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=bfdbfe&icon_color=38bdf8&ring_color=38bdf8&include_all_commits=true" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCaetano&layout=compact&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=bfdbfe" height="165" alt="Top languages" />
+**Portfólio comercial com sites, automações, calculadora de orçamento e agendamento.**
 
+[**ABRIR PORTFÓLIO →**](https://cauacaetano.github.io/blue-rose-automacao-express/)
 </div>
+
+---
+
+## ◈ TECH CONSTELLATION
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=CauaCaetano&theme=transparent&hide_border=true&ring=38bdf8&fire=60a5fa&currStreakLabel=67e8f9&sideLabels=93c5fd&dates=64748b&currStreakNum=eff6ff&sideNums=bfdbfe" height="165" alt="GitHub streak" />
-
+<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,n8n,wordpress,git,github&theme=dark" alt="Tecnologias" />
+<br/><br/>
+<img src="https://img.shields.io/badge/PYTHON-0B6E9E?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-1479A6?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/N8N-0A4F78?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/APIs-123B5D?style=flat-square&logo=fastapi&logoColor=white" />
 </div>
 
-## ◈ CONTACT / GRID
+---
+
+## ◉ GITHUB TELEMETRY
 
 <div align="center">
-
-**BLUE ROSE — sites, automações, sistemas, integrações e IA.**
-
-[🌹 Portfólio](https://cauacaetano.github.io/blue-rose-automacao-express/) · [💼 LinkedIn](https://www.linkedin.com/) · [📂 Repositórios](https://github.com/CauaCaetano?tab=repositories)
-
+<img src="https://github-readme-stats.vercel.app/api?username=CauaCaetano&show_icons=true&hide_border=true&bg_color=071426&title_color=63C5FF&text_color=B9DFFF&icon_color=39A9DB&include_all_commits=true" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCaetano&layout=compact&hide_border=true&bg_color=071426&title_color=63C5FF&text_color=B9DFFF" height="175" />
+<br/><br/>
+<img src="https://streak-stats.demolab.com?user=CauaCaetano&hide_border=true&background=071426&ring=39A9DB&fire=63C5FF&currStreakLabel=63C5FF&sideLabels=B9DFFF&dates=7FA9C7&currStreakNum=EAF6FF&sideNums=EAF6FF" width="70%" />
 </div>
 
-<sub>◉ STATUS: ONLINE · BUILDING · SHIPPING</sub>
+---
+
+## ◈ PROJECT ARCHIVE
+
+| PROJECT | DESCRIPTION | STATUS |
+|---|---|---|
+| 🌹 **BLUE ROSE** | Sites + automações para negócios | ACTIVE |
+| 🤖 **Lead Qualifier** | Qualificação automatizada de leads | AUTOMATION |
+| 💸 **PIX Recovery** | Recuperação de pagamentos via WhatsApp | AUTOMATION |
+| 🧪 **Experiments** | Apps, interfaces e projetos de estudo | LAB |
+
+---
+
+## ◉ CURRENT SIGNAL
+
+<div align="center">
+**AUTOMATION → INTEGRATION → SCALE**
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=CauaCaetano&style=for-the-badge&color=0B6E9E&label=PROFILE+SIGNALS" />
+</div>
+
+---
+
+## ◈ CONTACT
+
+<div align="center">
+[![BLUE ROSE](https://img.shields.io/badge/🌹%20BLUE%20ROSE-PORTFÓLIO-0B6E9E?style=for-the-badge)](https://cauacaetano.github.io/blue-rose-automacao-express/)
+[![GitHub](https://img.shields.io/badge/GITHUB-PERFIL-081B33?style=for-the-badge&logo=github)](https://github.com/CauaCaetano)
+<br/><br/>
+<sub>BLUE ROSE // BUILDING DIGITAL SYSTEMS THAT WORK FOR YOU.</sub>
+</div>
