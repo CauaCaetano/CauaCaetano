@@ -2,51 +2,132 @@
 
 <img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/banner.jpg" alt="BLUE ROSE" width="100%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-system.svg" alt="BLUE ROSE animated cosmic HUD" width="100%" />
+<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-system.svg" alt="BLUE ROSE cosmic HUD profile" width="100%" />
+
+<br/>
+
+# CAUÃ CAETANO
+
+**AUTOMATION • WEB • AI • APIs**
+
+Construo sistemas, automações e interfaces para transformar processos repetitivos em soluções que funcionam sozinhas.
+
+[**PORTFÓLIO →**](https://cauacaetano.github.io/blue-rose-automacao-express/) · [**GITHUB →**](https://github.com/CauaCaetano) · [**BLUE ROSE →**](https://github.com/CauaCaetano/blue-rose-automacao-express)
 
 </div>
 
-## CAUÃ CAETANO
+---
 
-> **Desenvolvedor freelancer • Automação • Web • IA**
+## PROFILE.SIGNAL
 
-Construo **sites, automações e integrações** para transformar trabalho repetitivo em sistemas que funcionam sozinhos.
+| **ROLE** | **CORE** | **FLOW** | **WEB** |
+|:---:|:---:|:---:|:---:|
+| DEV / AUTOMATION | Python | n8n / APIs | JS / HTML / CSS |
+| Freelance | Automation | Integrations | WordPress |
+
+---
+
+## LIVE GITHUB SIGNAL
+
+<div align="center">
+
+<a href="https://github.com/CauaCaetano">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CauaCaetano&show_icons=true&hide_border=true&bg_color=020812&title_color=36BCF7&text_color=9FB7C9&icon_color=36BCF7&include_all_commits=true" alt="GitHub stats" />
+</a>
+
+<a href="https://github.com/CauaCaetano">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCaetano&layout=compact&hide_border=true&bg_color=020812&title_color=36BCF7&text_color=9FB7C9&icon_color=36BCF7&langs_count=8" alt="Top languages" />
+</a>
+
+</div>
+
+---
+
+## CONTRIBUTION.ACTIVITY
+
+<div align="center">
+
+<a href="https://github.com/CauaCaetano">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CauaCaetano&bg_color=020812&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity" width="100%" />
+</a>
+
+</div>
+
+---
+
+## TECH.STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,n8n,wordpress,git,github&theme=dark" alt="Tech stack" />
+
+</div>
+
+<br/>
+
+| SYSTEM | TOOLCHAIN |
+|---|---|
+| **AUTOMATION** | n8n · APIs · Webhooks · WhatsApp flows |
+| **BACKEND** | Python · Node.js |
+| **WEB** | HTML · CSS · JavaScript · WordPress |
+| **INFRA** | Git · GitHub · Integrations |
+| **BRAND** | BLUE ROSE |
+
+---
+
+## FEATURED.PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/CauaCaetano/blue-rose-automacao-express">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaCaetano&repo=blue-rose-automacao-express&hide_border=true&bg_color=020812&title_color=36BCF7&text_color=9FB7C9&icon_color=36BCF7" alt="BLUE ROSE Automação Express" />
+</a>
+
+<a href="https://github.com/CauaCaetano">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaCaetano&repo=escritorio-blue-rose&hide_border=true&bg_color=020812&title_color=36BCF7&text_color=9FB7C9&icon_color=36BCF7" alt="Escritório BLUE ROSE" />
+</a>
+
+</div>
+
+### AUTOMATION LAB
+
+- **Lead Qualifier** — qualificação automatizada de leads.
+- **PIX Recovery** — recuperação de pagamentos via WhatsApp.
+- **Automação Express** — automações e integrações para operações digitais.
+- **BLUE ROSE** — laboratório de interfaces, sistemas e experimentos.
+
+---
+
+## BLUE.ROSE // OPERATING MODEL
+
+```text
+INPUT
+  ↓
+PROCESS
+  ↓
+AUTOMATION
+  ↓
+INTEGRATION
+  ↓
+OUTPUT
+
+BUILD → BLOOM → SCALE
+```
+
+---
+
+<div align="center">
 
 ### BLUE ROSE
 
 **AUTOMATION • WEB • AI • APIs**
 
-[**ABRIR PORTFÓLIO →**](https://cauacaetano.github.io/blue-rose-automacao-express/)
+<sub>Cosmic interface / human-built systems / continuous iteration</sub>
 
----
+<br/><br/>
 
-## TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,n8n,wordpress,git,github&theme=dark" alt="Tecnologias" />
-
-</div>
-
----
-
-## PROJECT ARCHIVE
-
-| PROJECT | DESCRIPTION | STATE |
-|---|---|---|
-| 🌹 **BLUE ROSE** | Sites + automações | ACTIVE |
-| 🤖 **Lead Qualifier** | Qualificação de leads | AUTOMATION |
-| 💸 **PIX Recovery** | Recuperação via WhatsApp | AUTOMATION |
-| 🧪 **Experiments** | Apps e interfaces | LAB |
-
----
-
-<div align="center">
-
-**BLUE ROSE // COSMIC NETWORK**
-
-AUTOMATION → INTEGRATION → SCALE
+<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-system.svg" alt="BLUE ROSE system" width="100%" />
 
 </div>
