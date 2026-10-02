@@ -4,9 +4,9 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-dashboard.svg" alt="BLUE ROSE GitHub dashboard" width="100%" />
+<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-dashboard.svg" alt="BLUE ROSE profile system" width="100%" />
 
-<br/><br/>
+<br/>
 
 <a href="https://cauacaetano.github.io/blue-rose-automacao-express/">PORTFÓLIO</a>
 &nbsp; • &nbsp;
@@ -15,5 +15,3 @@
 <a href="https://github.com/CauaCaetano/CauaCaetano">BLUE ROSE</a>
 
 </div>
-
-<!-- BLUE ROSE // dashboard-first profile -->
