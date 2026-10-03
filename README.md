@@ -42,9 +42,9 @@ Escritório virtual com agentes de IA, mantendo aprovação humana antes de aç�
 ## `github --status`
 
 ```text
-> construindo     sistemas úteis para negócios
-> explorando      automação, integrações e IA aplicada
-> próximo passo   transformar ideias em produtos simples de usar
+> agora: ERP e sistemas
+> foco: automação e IA
+> meta: ideias úteis, simples
 ```
 
 <div align="center">
