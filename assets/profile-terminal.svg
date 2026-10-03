@@ -1,37 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">Cauã Caetano — terminal profile</title>
-<desc id="desc">Terminal inspired profile banner for Cauã Caetano, showing systems, automation, web development, and BLUE ROSE projects.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Cauã Caetano — assinatura</title>
+<desc id="desc">Capa autoral em estilo cinematográfico com paisagem noturna, assinatura de Cauã Caetano e foco em sistemas, automação e produtos web.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07100d"/><stop offset=".58" stop-color="#0b1218"/><stop offset="1" stop-color="#12101d"/></linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#57efa1"/><stop offset=".58" stop-color="#77d8ff"/><stop offset="1" stop-color="#ed78bc"/></linearGradient>
-  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#b8d8cb" stroke-opacity=".055"/></pattern>
-  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#080d1b"/>
+    <stop offset=".48" stop-color="#111a36"/>
+    <stop offset="1" stop-color="#20143a"/>
+  </linearGradient>
+  <linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#27d7cf" stop-opacity=".03"/>
+    <stop offset=".52" stop-color="#678cff" stop-opacity=".74"/>
+    <stop offset="1" stop-color="#b45dff" stop-opacity=".22"/>
+  </linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#121d35" stop-opacity=".96"/>
+    <stop offset="1" stop-color="#101326" stop-opacity=".94"/>
+  </linearGradient>
+  <radialGradient id="moon">
+    <stop stop-color="#eefaff" stop-opacity=".9"/>
+    <stop offset=".2" stop-color="#a5d9ff" stop-opacity=".52"/>
+    <stop offset="1" stop-color="#6790ff" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+  <pattern id="stars" width="117" height="93" patternUnits="userSpaceOnUse">
+    <circle cx="11" cy="16" r="1" fill="#d9eaff" opacity=".72"/>
+    <circle cx="79" cy="57" r=".8" fill="#a8dfff" opacity=".64"/>
+    <circle cx="48" cy="82" r=".7" fill="#ffffff" opacity=".52"/>
+  </pattern>
 </defs>
-<rect width="1200" height="390" rx="26" fill="url(#bg)"/>
-<rect width="1200" height="390" rx="26" fill="url(#grid)"/>
-<circle cx="1060" cy="90" r="105" fill="#52e99c" opacity=".11" filter="url(#glow)"/>
-<rect x="25" y="25" width="1150" height="340" rx="18" fill="#080d11" stroke="#25342e" stroke-width="2"/>
-<path d="M25 83h1150" stroke="#25342e" stroke-width="2"/>
-<circle cx="57" cy="54" r="7" fill="#ff6b77"/>
-<circle cx="82" cy="54" r="7" fill="#f8c65a"/>
-<circle cx="107" cy="54" r="7" fill="#55e99c"/>
-<text x="143" y="61" fill="#91a39a" font-family="Consolas,Menlo,monospace" font-size="17">caua@blue-rose: ~</text>
-<text x="1095" y="61" text-anchor="end" fill="#65efa4" font-family="Consolas,Menlo,monospace" font-size="14">PROFILE.README</text>
-<text x="70" y="132" fill="#65efa4" font-family="Consolas,Menlo,monospace" font-size="18">$ whoami</text>
-<text x="70" y="189" fill="#eff8f2" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700">Cauã Caetano</text>
-<text x="70" y="223" fill="#a5b7ae" font-family="Arial,Helvetica,sans-serif" font-size="20">Desenvolvedor de sistemas, automações e aplicações web.</text>
-<text x="70" y="276" fill="#65efa4" font-family="Consolas,Menlo,monospace" font-size="17">$ focus --now</text>
-<text x="70" y="309" fill="#d8e6df" font-family="Consolas,Menlo,monospace" font-size="16">ERP  ·  integrações  ·  ferramentas para negócios</text>
-<rect x="790" y="110" width="335" height="214" rx="14" fill="#0d1714" stroke="#294137"/>
-<text x="817" y="146" fill="#65efa4" font-family="Consolas,Menlo,monospace" font-size="15">BUILDING / SHIPPED</text>
-<path d="M817 163h278" stroke="#253b30"/>
-<circle cx="826" cy="195" r="4" fill="#65efa4"/>
-<text x="843" y="201" fill="#edf7f0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Nexo Gestão</text>
-<text x="843" y="220" fill="#82948b" font-family="Consolas,Menlo,monospace" font-size="12">ERP · DISTRIBUIÇÃO</text>
-<circle cx="826" cy="254" r="4" fill="#8cdcff"/>
-<text x="843" y="260" fill="#edf7f0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">BLUE ROSE</text>
-<text x="843" y="279" fill="#82948b" font-family="Consolas,Menlo,monospace" font-size="12">SISTEMAS · WEB · AUTOMAÇÃO</text>
-<rect x="817" y="296" width="103" height="20" rx="10" fill="#173327"/>
-<text x="868.5" y="310" text-anchor="middle" fill="#65efa4" font-family="Consolas,Menlo,monospace" font-size="11">STATUS: ONLINE</text>
-<path d="M70 340h1055" stroke="url(#line)" stroke-width="2" opacity=".85"/>
+<rect width="1200" height="440" rx="26" fill="url(#sky)"/>
+<rect width="1200" height="315" rx="26" fill="url(#stars)"/>
+<ellipse cx="1004" cy="171" rx="225" ry="136" fill="#426fff" opacity=".21" filter="url(#blur)"/>
+<circle cx="1012" cy="148" r="92" fill="url(#moon)"/>
+<circle cx="1012" cy="148" r="36" fill="#dbeeff" opacity=".8"/>
+<circle cx="1024" cy="138" r="36" fill="#151a35"/>
+<path d="M0 304 Q110 263 224 303 T450 293 T682 302 T914 285 T1200 294 V440 H0Z" fill="#101a31"/>
+<path d="M0 337 Q144 291 281 331 T552 327 T838 317 T1200 328 V440 H0Z" fill="#0b1427"/>
+<path d="M0 365 Q181 334 376 358 T733 354 T1200 345 V440 H0Z" fill="#080f20"/>
+<path d="M0 319H1200" stroke="url(#horizon)" stroke-width="2"/>
+<g fill="#0a1020" opacity=".93">
+  <path d="M795 294v-42h22v42m9 0v-68h28v68m13 0v-35h20v35m12 0v-82h35v82m12 0v-53h24v53m12 0v-70h30v70m12 0v-43h24v43m14 0v-91h35v91m14 0v-61h26v61m12 0v-39h23v39m13 0v-73h33v73m13 0v-47h24v47m12 0v-88h31v88m13 0v-55h20v55"/>
+</g>
+<g fill="#91e7ff" opacity=".62">
+  <rect x="839" y="246" width="3" height="4" rx="1"/><rect x="911" y="220" width="3" height="4" rx="1"/>
+  <rect x="962" y="248" width="3" height="4" rx="1"/><rect x="1005" y="231" width="3" height="4" rx="1"/>
+  <rect x="1070" y="238" width="3" height="4" rx="1"/><rect x="1141" y="250" width="3" height="4" rx="1"/>
+</g>
+<path d="M0 405 Q244 379 472 402 T914 390 T1200 398" fill="none" stroke="#344875" stroke-opacity=".62"/>
+<rect x="42" y="38" width="1116" height="344" rx="22" fill="none" stroke="#a1c3ff" stroke-opacity=".15"/>
+<text x="76" y="89" fill="#8ba5da" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3">BLUE ROSE  /  SISTEMAS &amp; AUTOMAÇÃO</text>
+<path d="M76 110h42" stroke="#56e1da" stroke-width="3" stroke-linecap="round"/>
+<text x="72" y="185" fill="#f3f6ff" font-family="Segoe Script, Brush Script MT, cursive" font-size="57" font-style="italic">Cauã Caetano</text>
+<text x="76" y="225" fill="#d1daef" font-family="Arial,Helvetica,sans-serif" font-size="22">Construo sistemas que simplificam o trabalho.</text>
+<text x="76" y="268" fill="#75dedc" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">ERP   ·   AUTOMAÇÃO   ·   PRODUTOS WEB</text>
+<path d="M75 296c66 0 100-20 148-13 28 4 45 19 71 14" fill="none" stroke="#9c8cff" stroke-width="2" stroke-linecap="round" opacity=".78"/>
+<rect x="735" y="67" width="360" height="243" rx="19" fill="url(#card)" stroke="#9dbaff" stroke-opacity=".3"/>
+<text x="763" y="104" fill="#8c9ec9" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">AGORA EM DESTAQUE</text>
+<path d="M763 120h303" stroke="#2f3b5d"/>
+<circle cx="773" cy="155" r="5" fill="#55e0cf"/>
+<text x="791" y="160" fill="#f0f4ff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Nexo Gestão</text>
+<text x="791" y="181" fill="#9aa9c8" font-family="Arial,Helvetica,sans-serif" font-size="13">ERP para pequenas distribuidoras</text>
+<circle cx="773" cy="218" r="5" fill="#9c83ff"/>
+<text x="791" y="223" fill="#f0f4ff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">BLUE ROSE</text>
+<text x="791" y="244" fill="#9aa9c8" font-family="Arial,Helvetica,sans-serif" font-size="13">Sistemas · automação · web</text>
+<path d="M763 268h303" stroke="#2f3b5d"/>
+<text x="763" y="290" fill="#75dedc" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.5">CÓDIGO COM PROPÓSITO</text>
+<text x="1093" y="350" text-anchor="end" fill="#b8c6e7" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">DESIGN · BUILD · IMPROVE</text>
+<path d="M76 352h408" stroke="url(#horizon)" stroke-width="2"/>
 </svg>
