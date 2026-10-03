@@ -1,41 +1,50 @@
-# Cauã Caetano
-
-### Sistemas · automação · desenvolvimento web
-
-Desenvolvo sistemas e automações para simplificar rotinas de negócio — da operação interna ao atendimento ao cliente.
-
-[Portfólio BLUE ROSE](https://cauacaetano.github.io/blue-rose-automacao-express/) · [Falar comigo](https://cauacaetano.github.io/blue-rose-automacao-express/#contato)
-
----
-
-## Projetos em destaque
-
-### [Nexo Gestão](https://github.com/CauaCaetano/App-Controle-de-Estoque)
-
-ERP operacional para pequenas distribuidoras, com compras, recebimentos, estoque por depósito, clientes, vendas e expedição.
-
-[Ver demonstração](https://cauacaetano.github.io/blue-rose-automacao-express/demos/stockmaster/) · [Ver código](https://github.com/CauaCaetano/App-Controle-de-Estoque)
-
-### [BLUE ROSE](https://github.com/CauaCaetano/blue-rose-automacao-express)
-
-Meu portfólio e laboratório de projetos: sites, sistemas internos, automações demonstráveis e ferramentas em Python que rodam no navegador.
-
-[Abrir o site](https://cauacaetano.github.io/blue-rose-automacao-express/)
-
-### [Escritório BLUE ROSE](https://github.com/CauaCaetano/escritorio-blue-rose)
-
-Um escritório virtual com agentes de IA para organizar etapas de trabalho. As ações externas ficam aguardando aprovação humana.
-
-[Ver projeto](https://github.com/CauaCaetano/escritorio-blue-rose)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/profile-terminal.svg" alt="Cauã Caetano — terminal profile" width="100%" />
+  <br />
+  <a href="https://cauacaetano.github.io/blue-rose-automacao-express/">[ ABRIR PORTFÓLIO ]</a>
+  &nbsp;·&nbsp;
+  <a href="https://cauacaetano.github.io/blue-rose-automacao-express/#contato">[ CONTATO ]</a>
+</div>
 
 ---
 
-## Tecnologias usadas nos projetos
+## `whoami`
 
-**Backend:** Python, FastAPI, Node.js  
-**Frontend:** React, JavaScript, HTML e CSS  
-**Dados e integrações:** MongoDB, SQLite, APIs REST, webhooks e n8n
+Desenvolvedor de sistemas, automações e aplicações web. Gosto de transformar tarefas confusas em fluxos claros, com ferramentas que resolvem problemas práticos.
 
----
+**Foco:** sistemas internos · automação de processos · produtos web
 
-Gosto de construir soluções com fluxo claro, interface acessível e um propósito prático.
+## `projects --featured`
+
+| Projeto | O que faz | |
+|---|---|---|
+| **[Nexo Gestão](https://github.com/CauaCaetano/App-Controle-de-Estoque)** | ERP para pequenas distribuidoras: compras, recebimentos, estoque por depósito, clientes e expedição. | [Demo](https://cauacaetano.github.io/blue-rose-automacao-express/demos/stockmaster/) |
+| **[BLUE ROSE](https://github.com/CauaCaetano/blue-rose-automacao-express)** | Portfólio e laboratório com sites, sistemas, automações demonstráveis e ferramentas Python. | [Site](https://cauacaetano.github.io/blue-rose-automacao-express/) |
+| **[Escritório BLUE ROSE](https://github.com/CauaCaetano/escritorio-blue-rose)** | Escritório virtual com agentes de IA; ações externas aguardam aprovação humana. | [Código](https://github.com/CauaCaetano/escritorio-blue-rose) |
+
+## `toolbox`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,tailwind,mongodb,sqlite,git&theme=dark" alt="Python, JavaScript, HTML, CSS, React, Node.js, Tailwind, MongoDB, SQLite e Git" />
+</div>
+
+**APIs e automação:** FastAPI · REST · webhooks · n8n
+
+## `github --stats`
+
+<div align="center">
+  <a href="https://github.com/CauaCaetano">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=CauaCaetano&show_icons=true&hide_border=true&bg_color=07100D&title_color=65EFA4&text_color=D5E3DC&icon_color=65EFA4&include_all_commits=true" alt="Estatísticas do GitHub de Cauã Caetano" />
+  </a>
+  <a href="https://github.com/CauaCaetano">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCaetano&layout=compact&hide_border=true&bg_color=07100D&title_color=65EFA4&text_color=D5E3DC&langs_count=6" alt="Linguagens mais usadas nos repositórios públicos" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CauaCaetano&bg_color=07100D&color=D5E3DC&line=65EFA4&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade pública no GitHub" width="100%" />
+</div>
+
+<div align="center">
+  <sub><code>BUILD · LEARN · SHIP</code></sub>
+</div>
