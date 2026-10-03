@@ -1,121 +1,41 @@
-<div align="center">
+# Cauã Caetano
 
-<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/banner.jpg" alt="BLUE ROSE" width="100%" />
+### Sistemas · automação · desenvolvimento web
 
-<br/>
+Desenvolvo sistemas e automações para simplificar rotinas de negócio — da operação interna ao atendimento ao cliente.
 
-<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-logo.svg" alt="BLUE ROSE animated logo" width="360" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-dashboard.svg" alt="BLUE ROSE cosmic HUD profile" width="100%" />
-
-<br/>
-
-# CAUÃ CAETANO
-
-**AUTOMATION • WEB • AI • APIs**
-
-Construo sistemas, automações e interfaces para transformar processos repetitivos em soluções que funcionam sozinhas.
-
-[**PORTFÓLIO →**](https://cauacaetano.github.io/blue-rose-automacao-express/) · [**GITHUB →**](https://github.com/CauaCaetano) · [**BLUE ROSE →**](https://github.com/CauaCaetano/blue-rose-automacao-express)
-
-</div>
+[Portfólio BLUE ROSE](https://cauacaetano.github.io/blue-rose-automacao-express/) · [Falar comigo](https://cauacaetano.github.io/blue-rose-automacao-express/#contato)
 
 ---
 
-## PROFILE.SIGNAL
+## Projetos em destaque
 
-| **ROLE** | **CORE** | **FLOW** | **WEB** |
-|:---:|:---:|:---:|:---:|
-| DEV / AUTOMATION | Python | n8n / APIs | JS / HTML / CSS |
-| Freelance | Automation | Integrations | WordPress |
+### [Nexo Gestão](https://github.com/CauaCaetano/App-Controle-de-Estoque)
 
+ERP operacional para pequenas distribuidoras, com compras, recebimentos, estoque por depósito, clientes, vendas e expedição.
 
+[Ver demonstração](https://cauacaetano.github.io/blue-rose-automacao-express/demos/stockmaster/) · [Ver código](https://github.com/CauaCaetano/App-Controle-de-Estoque)
 
-## CONTRIBUTION.ACTIVITY
+### [BLUE ROSE](https://github.com/CauaCaetano/blue-rose-automacao-express)
 
-<div align="center">
+Meu portfólio e laboratório de projetos: sites, sistemas internos, automações demonstráveis e ferramentas em Python que rodam no navegador.
 
-<a href="https://github.com/CauaCaetano">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CauaCaetano&bg_color=020812&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity" width="100%" />
-</a>
+[Abrir o site](https://cauacaetano.github.io/blue-rose-automacao-express/)
 
-</div>
+### [Escritório BLUE ROSE](https://github.com/CauaCaetano/escritorio-blue-rose)
 
----
+Um escritório virtual com agentes de IA para organizar etapas de trabalho. As ações externas ficam aguardando aprovação humana.
 
-## TECH.STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,n8n,wordpress,git,github&theme=dark" alt="Tech stack" />
-
-</div>
-
-<br/>
-
-| SYSTEM | TOOLCHAIN |
-|---|---|
-| **AUTOMATION** | n8n · APIs · Webhooks · WhatsApp flows |
-| **BACKEND** | Python · Node.js |
-| **WEB** | HTML · CSS · JavaScript · WordPress |
-| **INFRA** | Git · GitHub · Integrations |
-| **BRAND** | BLUE ROSE |
+[Ver projeto](https://github.com/CauaCaetano/escritorio-blue-rose)
 
 ---
 
-## FEATURED.PROJECTS
+## Tecnologias usadas nos projetos
 
-<div align="center">
-
-<a href="https://github.com/CauaCaetano/blue-rose-automacao-express">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaCaetano&repo=blue-rose-automacao-express&hide_border=true&bg_color=020812&title_color=36BCF7&text_color=9FB7C9&icon_color=36BCF7" alt="BLUE ROSE Automação Express" />
-</a>
-
-<a href="https://github.com/CauaCaetano">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaCaetano&repo=escritorio-blue-rose&hide_border=true&bg_color=020812&title_color=36BCF7&text_color=9FB7C9&icon_color=36BCF7" alt="Escritório BLUE ROSE" />
-</a>
-
-</div>
-
-### AUTOMATION LAB
-
-- **Lead Qualifier** — qualificação automatizada de leads.
-- **PIX Recovery** — recuperação de pagamentos via WhatsApp.
-- **Automação Express** — automações e integrações para operações digitais.
-- **BLUE ROSE** — laboratório de interfaces, sistemas e experimentos.
+**Backend:** Python, FastAPI, Node.js  
+**Frontend:** React, JavaScript, HTML e CSS  
+**Dados e integrações:** MongoDB, SQLite, APIs REST, webhooks e n8n
 
 ---
 
-## BLUE.ROSE // OPERATING MODEL
-
-```text
-INPUT
-  ↓
-PROCESS
-  ↓
-AUTOMATION
-  ↓
-INTEGRATION
-  ↓
-OUTPUT
-
-BUILD → BLOOM → SCALE
-```
-
----
-
-<div align="center">
-
-### BLUE ROSE
-
-**AUTOMATION • WEB • AI • APIs**
-
-<sub>Cosmic interface / human-built systems / continuous iteration</sub>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-logo.svg" alt="BLUE ROSE animated logo" width="220" />
-
-</div>
+Gosto de construir soluções com fluxo claro, interface acessível e um propósito prático.
