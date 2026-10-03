@@ -31,23 +31,7 @@ Construo sistemas, automações e interfaces para transformar processos repetiti
 | DEV / AUTOMATION | Python | n8n / APIs | JS / HTML / CSS |
 | Freelance | Automation | Integrations | WordPress |
 
----
 
-## LIVE GITHUB SIGNAL
-
-<div align="center">
-
-<a href="https://github.com/CauaCaetano">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CauaCaetano&show_icons=true&hide_border=true&bg_color=020812&title_color=36BCF7&text_color=9FB7C9&icon_color=36BCF7&include_all_commits=true" alt="GitHub stats" />
-</a>
-
-<a href="https://github.com/CauaCaetano">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCaetano&layout=compact&hide_border=true&bg_color=020812&title_color=36BCF7&text_color=9FB7C9&icon_color=36BCF7&langs_count=8" alt="Top languages" />
-</a>
-
-</div>
-
----
 
 ## CONTRIBUTION.ACTIVITY
 
