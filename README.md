@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-banner.jpg" alt="The blue rose has finally bloomed" width="100%" />
   <br /><br />
-  <img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-logo.png" alt="Logo da BLUE ROSE" width="112" />
   <h1>BLUE ROSE</h1>
   <p><strong>Projetos digitais para negócios reais.</strong><br />
   Sistemas, automações e experiências web criadas por Cauã Caetano.</p>
