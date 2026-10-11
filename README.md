@@ -4,11 +4,11 @@
   <h1>BLUE ROSE</h1>
   <p><strong>Projetos digitais para negócios reais.</strong><br />
   Sistemas, automações e experiências web criadas por Cauã Caetano.</p>
-  <a href="https://cauacaetano.github.io/blue-rose-automacao-express/"><strong>VISITAR A BLUE ROSE</strong></a>
+  <a href="https://bluerose-store.com/"><strong>VISITAR A BLUE ROSE</strong></a>
   &nbsp; ✦ &nbsp;
-  <a href="https://cauacaetano.github.io/blue-rose-automacao-express/projetos.html"><strong>VER PROJETOS</strong></a>
+  <a href="https://bluerose-store.com/projetos.html"><strong>VER PROJETOS</strong></a>
   &nbsp; ✦ &nbsp;
-  <a href="https://cauacaetano.github.io/blue-rose-automacao-express/#contato"><strong>CONTATO</strong></a>
+  <a href="https://bluerose-store.com/#contato"><strong>CONTATO</strong></a>
 </div>
 
 ---
@@ -24,7 +24,7 @@ Estou construindo a BLUE ROSE como um espaço para criar e apresentar tecnologia
 - **Ferramentas web e Python:** organizador de arquivos, relatório de vendas e geração de descrições de produtos com IA.
 - **Laboratório interativo:** demonstrações que podem ser exploradas no navegador, com conteúdo em português e inglês.
 
-[🌐 Abrir o site da BLUE ROSE](https://cauacaetano.github.io/blue-rose-automacao-express/) · [📁 Ver o repositório](https://github.com/CauaCaetano/blue-rose-automacao-express)
+[🌐 Abrir o site da BLUE ROSE](https://bluerose-store.com/) · [🧪 Ver projetos](https://bluerose-store.com/projetos.html)
 
 ## Sobre mim
 
@@ -38,7 +38,7 @@ Tenho trabalhado principalmente com desenvolvimento web, automação, sistemas d
 
 Sistema operacional para pequenas distribuidoras que reúne produtos, fornecedores, compras, recebimentos, clientes, vendas, depósitos e expedição. O estoque é atualizado a partir dos movimentos de entrada, saída e transferência, para que cada alteração tenha uma origem clara.
 
-- [Abrir demonstração](https://cauacaetano.github.io/blue-rose-automacao-express/demos/stockmaster/)
+- [Abrir demonstração](https://bluerose-store.com/demos/stockmaster/)
 - [Ver código e detalhes técnicos](https://github.com/CauaCaetano/App-Controle-de-Estoque)
 
 ### 02 · Escritório BLUE ROSE — agentes de IA
