@@ -1,73 +1,79 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/CauaCaetano/CauaCaetano/main/assets/blue-rose-banner.jpg" alt="The blue rose has finally bloomed" width="100%" />
   <br /><br />
-  <h1>BLUE ROSE</h1>
-  <p><strong>Projetos digitais para negócios reais.</strong><br />
-  Sistemas, automações e experiências web criadas por Cauã Caetano.</p>
-  <a href="https://bluerose-store.com/"><strong>VISITAR A BLUE ROSE</strong></a>
+  <h1>Blue Rose Express</h1>
+  <p><strong>Sistemas de gestão prontos, sites e automações para pequenas empresas.</strong><br />
+  Criado por Cauã Caetano, em São Joaquim da Barra (SP).</p>
+  <a href="https://bluerose-store.com/"><strong>VISITAR O SITE</strong></a>
   &nbsp; ✦ &nbsp;
-  <a href="https://bluerose-store.com/projetos.html"><strong>VER PROJETOS</strong></a>
+  <a href="https://bluerose-store.com/sistemas.html"><strong>VER OS SISTEMAS</strong></a>
   &nbsp; ✦ &nbsp;
-  <a href="https://bluerose-store.com/#contato"><strong>CONTATO</strong></a>
+  <a href="https://www.instagram.com/blue.rose.express/"><strong>INSTAGRAM</strong></a>
 </div>
 
 ---
 
-## 🌹 BLUE ROSE — meu projeto principal
+## 🌹 O que a Blue Rose faz
 
-Estou construindo a BLUE ROSE como um espaço para criar e apresentar tecnologia prática para clínicas, consultórios e negócios locais. A ideia é conectar uma boa presença digital a ferramentas que ajudam no atendimento e na rotina da empresa.
+A Blue Rose Express tira a pequena empresa da planilha, do caderno e do grupo de WhatsApp. São **13 sistemas prontos**, cada um pensado para um ramo, que funcionam no computador e no celular, com a equipe toda.
 
-**O que você encontra no projeto:**
+- **Teste antes de assinar:** cada sistema tem demonstração aberta no site, sem cadastro, e **7 dias grátis** com os seus dados.
+- **Assinatura sem fidelidade**, a partir de **R$ 79 por mês**.
+- **Sites profissionais** e **automações de WhatsApp** para quem precisa aparecer e atender melhor.
+- **Assistente virtual** no site, que responde as dúvidas mais comuns na hora.
 
-- **Sites e presença digital:** experiências responsivas e páginas de demonstração organizadas por tipo de negócio.
-- **Automação de processos:** exemplos de qualificação de contatos e recuperação de pagamentos via WhatsApp, apresentados como fluxos demonstrativos.
-- **Ferramentas web e Python:** organizador de arquivos, relatório de vendas e geração de descrições de produtos com IA.
-- **Laboratório interativo:** demonstrações que podem ser exploradas no navegador, com conteúdo em português e inglês.
+### Os sistemas
 
-[🌐 Abrir o site da BLUE ROSE](https://bluerose-store.com/) · [🧪 Ver projetos](https://bluerose-store.com/projetos.html)
+| Ramo | Sistema |
+|---|---|
+| Obras e reformas | [RoseConstruct](https://bluerose-store.com/roseconstruct.html) |
+| Advocacia | [Nexo Jurídico](https://bluerose-store.com/nexo-juridico.html) |
+| Salão, barbearia e estética | [Nexo Agenda](https://bluerose-store.com/nexo-agenda.html) |
+| Financeiro e ordens de serviço | [Nexo Financeiro](https://bluerose-store.com/nexo-financeiro.html) |
+| Oficina mecânica | [Nexo Oficina](https://bluerose-store.com/nexo-oficina.html) |
+| Clínicas e consultórios | [Nexo Clínica](https://bluerose-store.com/nexo-clinica.html) |
+| Academias e estúdios | [Nexo Academia](https://bluerose-store.com/nexo-academia.html) |
+| Restaurantes e lanchonetes | [Nexo Restaurante](https://bluerose-store.com/nexo-restaurante.html) |
+| Imobiliárias | [Nexo Imobiliária](https://bluerose-store.com/nexo-imobiliaria.html) |
+| Comércio e distribuidoras | [Nexo Gestão](https://bluerose-store.com/nexo-gestao.html) |
+| Vendas e funil de clientes | [Nexo CRM](https://bluerose-store.com/nexo-crm.html) |
+| Dedetizadoras | [Blue Rose Guard](https://bluerose-store.com/guard.html) |
+| Cerimonial e casamentos | [Blue Rose Eternize](https://bluerose-store.com/eternize.html) |
+
+[🌐 Ver todos os sistemas](https://bluerose-store.com/sistemas.html) · [🖥️ Exemplos de sites](https://bluerose-store.com/exemplos.html) · [🧪 Laboratório de automações](https://bluerose-store.com/laboratorio.html)
 
 ## Sobre mim
 
-Sou Cauã, desenvolvedor e criador da BLUE ROSE. Gosto de pegar processos que parecem complicados e transformá-los em sistemas claros: entender o fluxo, organizar as etapas e deixar as informações importantes visíveis.
+Sou Cauã, desenvolvedor e fundador da Blue Rose Express. Gosto de pegar uma rotina que parece complicada e transformar num sistema claro: entender o fluxo do negócio, organizar as etapas e deixar à vista o que importa para o dono.
 
-Tenho trabalhado principalmente com desenvolvimento web, automação, sistemas de gestão e aplicações de IA com supervisão humana. Também mantenho projetos menores para estudar interfaces, lógica e novas ferramentas.
+Por trás da Blue Rose também roda o **Escritório Blue Rose**, um escritório virtual em pixel art onde agentes de IA pesquisam empresas, escrevem e-mails, montam propostas e prévias. Tudo o que sai para o cliente passa pela minha aprovação.
 
-## Projetos da BLUE ROSE
+## Projetos abertos
 
-### 01 · Nexo Gestão — ERP para distribuidoras
-
-Sistema operacional para pequenas distribuidoras que reúne produtos, fornecedores, compras, recebimentos, clientes, vendas, depósitos e expedição. O estoque é atualizado a partir dos movimentos de entrada, saída e transferência, para que cada alteração tenha uma origem clara.
-
-- [Abrir demonstração](https://bluerose-store.com/demos/stockmaster/)
-- [Ver código e detalhes técnicos](https://github.com/CauaCaetano/App-Controle-de-Estoque)
-
-### 02 · Escritório BLUE ROSE — agentes de IA
-
-Um escritório virtual em pixel art, com seis agentes que colaboram em etapas de prospecção, proposta, criação de páginas e revisão. O fluxo termina aguardando aprovação humana; mensagens externas não são enviadas automaticamente.
-
-- [Ver repositório](https://github.com/CauaCaetano/escritorio-blue-rose)
-- [Conhecer o fluxo e a arquitetura](https://github.com/CauaCaetano/escritorio-blue-rose#sobre-o-projeto)
+- **[Nexo Gestão (StockMaster)](https://github.com/CauaCaetano/App-Controle-de-Estoque):** controle de estoque com FastAPI, MongoDB e React; é a base do Nexo Gestão. [Abrir demonstração](https://bluerose-store.com/demos/stockmaster/)
+- **[Site da Blue Rose](https://github.com/CauaCaetano/bluerose-store):** o site [bluerose-store.com](https://bluerose-store.com/), com as demonstrações dos sistemas.
+- **[Mammon Capital](https://cauacaetano.github.io/mammon-capital-site/):** site do Mammon Capital, um projeto paralelo de agentes de IA para operar a própria conta na Binance.
 
 ## Estudos e experimentos
 
-Além dos projetos principais, uso repositórios menores para praticar construção de interfaces, responsividade e interações:
+Repositórios menores, da época de faculdade e de estudo de interfaces:
 
-- **Sites e páginas:** [Página de turismo](https://github.com/CauaCaetano/PaginaTurismo-Aula-Marcus) · [site Starbucks](https://github.com/CauaCaetano/Starbucks-slide-website-trabalho-aula) · [mudanças climáticas](https://github.com/CauaCaetano/mudan-as-clim-ticas)
+- **Sites e páginas:** [página de turismo](https://github.com/CauaCaetano/PaginaTurismo-Aula-Marcus) · [site Starbucks](https://github.com/CauaCaetano/Starbucks-slide-website-trabalho-aula) · [mudanças climáticas](https://github.com/CauaCaetano/mudan-as-clim-ticas)
 - **Apps e protótipos:** [app CRUD](https://github.com/CauaCaetano/appcrudProjetoAula) · [menu Ionic](https://github.com/CauaCaetano/appmenu.ionic) · [menu Taverna](https://github.com/CauaCaetano/appmenu.Taverna) · [mini playlist](https://github.com/CauaCaetano/mini-playlist-musica)
 - **Animação e interação:** [animação de login](https://github.com/CauaCaetano/anima--o-de-login) · [relógio animado](https://github.com/CauaCaetano/anima--o-de-relogio) · [efeito de sombra](https://github.com/CauaCaetano/sombra) · [jogo do bastão que estica](https://github.com/CauaCaetano/jogo-do-bast-o-que-estica)
 
 ## Ferramentas que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,fastapi,nodejs,mongodb,sqlite,git&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind, Python, FastAPI, Node.js, MongoDB, SQLite e Git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,fastapi,nodejs,electron,supabase,mongodb,sqlite,git&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind, Python, FastAPI, Node.js, Electron, Supabase, MongoDB, SQLite e Git" />
   <br /><br />
-  <sub>APIs REST · Webhooks · n8n · automação · IA aplicada</sub>
+  <sub>APIs REST · Webhooks · PIX · automação de WhatsApp · IA aplicada com aprovação humana</sub>
 </div>
 
 ---
 
 <div align="center">
-  <sub><strong>Uma ideia, um fluxo claro, uma ferramenta melhor.</strong></sub>
+  <sub><strong>Instagram:</strong> <a href="https://www.instagram.com/blue.rose.express/">@blue.rose.express</a> · <a href="https://www.instagram.com/cau4caetano/">@cau4caetano</a> · <a href="https://www.instagram.com/leone.008/">@leone.008</a></sub>
   <br />
-  <sub><code>BLUE ROSE · BUILDING WITH PURPOSE</code></sub>
+  <sub><code>BLUE ROSE EXPRESS · BUILDING WITH PURPOSE</code></sub>
 </div>
