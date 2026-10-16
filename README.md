@@ -3,7 +3,7 @@
   <br /><br />
   <h1>Blue Rose Express</h1>
   <p><strong>Sistemas de gestão prontos, sites e automações para pequenas empresas.</strong><br />
-  Criado por Cauã Caetano, em São Joaquim da Barra (SP).</p>
+  Criado por Cauã Caetano.</p>
   <a href="https://bluerose-store.com/"><strong>VISITAR O SITE</strong></a>
   &nbsp; ✦ &nbsp;
   <a href="https://bluerose-store.com/sistemas.html"><strong>VER OS SISTEMAS</strong></a>
