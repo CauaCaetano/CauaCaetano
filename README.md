@@ -15,44 +15,41 @@
 
 ## 🌹 O que a Blue Rose faz
 
-A Blue Rose Express tira a pequena empresa da planilha, do caderno e do grupo de WhatsApp. São **13 sistemas prontos**, cada um pensado para um ramo, que funcionam no computador e no celular, com a equipe toda.
+A Blue Rose Express tira a pequena empresa da planilha, do caderno e do grupo de WhatsApp. A **Veltria** é a nossa linha de sistemas: **24 sistemas prontos**, para **8 ramos**, cada um em três versões (Essencial, Completo e Avançado). Funcionam no computador e no celular, com a equipe toda.
 
-- **Teste antes de assinar:** cada sistema tem demonstração aberta no site, sem cadastro, e **7 dias grátis** com os seus dados.
-- **Assinatura sem fidelidade**, a partir de **R$ 79 por mês**.
-- **Sites profissionais** e **automações de WhatsApp** para quem precisa aparecer e atender melhor.
-- **Assistente virtual** no site, que responde as dúvidas mais comuns na hora.
+- **Teste antes de assinar:** demonstração aberta no site e **7 dias grátis** com os seus dados, sem cartão.
+- **Assinatura mensal sem fidelidade**, de **R$ 49 a R$ 299 por mês**, com 20% de desconto no plano anual.
+- **Sites profissionais**, prontos em 3 a 10 dias úteis, e **automações de WhatsApp** que respondem, cobram e lembram sozinhas.
+- **Assistente virtual com IA** no site e dentro dos sistemas, para tirar dúvidas na hora.
 
-### Os sistemas
+### Veltria: os sistemas
 
 | Ramo | Sistema |
 |---|---|
-| Obras e reformas | [RoseConstruct](https://bluerose-store.com/roseconstruct.html) |
-| Advocacia | [Nexo Jurídico](https://bluerose-store.com/nexo-juridico.html) |
-| Salão, barbearia e estética | [Nexo Agenda](https://bluerose-store.com/nexo-agenda.html) |
-| Financeiro e ordens de serviço | [Nexo Financeiro](https://bluerose-store.com/nexo-financeiro.html) |
-| Oficina mecânica | [Nexo Oficina](https://bluerose-store.com/nexo-oficina.html) |
-| Clínicas e consultórios | [Nexo Clínica](https://bluerose-store.com/nexo-clinica.html) |
-| Academias e estúdios | [Nexo Academia](https://bluerose-store.com/nexo-academia.html) |
-| Restaurantes e lanchonetes | [Nexo Restaurante](https://bluerose-store.com/nexo-restaurante.html) |
-| Imobiliárias | [Nexo Imobiliária](https://bluerose-store.com/nexo-imobiliaria.html) |
-| Comércio e distribuidoras | [Nexo Gestão](https://bluerose-store.com/nexo-gestao.html) |
-| Vendas e funil de clientes | [Nexo CRM](https://bluerose-store.com/nexo-crm.html) |
-| Dedetizadoras | [Blue Rose Guard](https://bluerose-store.com/guard.html) |
-| Cerimonial e casamentos | [Blue Rose Eternize](https://bluerose-store.com/eternize.html) |
+| Obras e reformas | [Veltria Obras](https://bluerose-store.com/veltria-obras.html) |
+| Advocacia | [Veltria Jurídico](https://bluerose-store.com/veltria-juridico.html) |
+| Salão, barbearia, estética e clínicas | [Veltria Agenda](https://bluerose-store.com/veltria-agenda.html) |
+| Financeiro e ordens de serviço | [Veltria Financeiro](https://bluerose-store.com/veltria-financeiro.html) |
+| Oficina mecânica | [Veltria Oficina](https://bluerose-store.com/veltria-oficina.html) |
+| Vendas e funil de clientes | [Veltria CRM](https://bluerose-store.com/veltria-crm.html) |
+| Farmácias e drogarias | [Veltria Farmácia](https://bluerose-store.com/veltria-farmacia.html) |
+| Comércio e distribuidoras | [Veltria Gestão](https://bluerose-store.com/veltria-gestao.html) *(em manutenção)* |
 
-[🌐 Ver todos os sistemas](https://bluerose-store.com/sistemas.html) · [🖥️ Exemplos de sites](https://bluerose-store.com/exemplos.html) · [🧪 Laboratório de automações](https://bluerose-store.com/laboratorio.html)
+Também fazem parte da Blue Rose o **[Blue Rose Guard](https://bluerose-store.com/guard.html)** (dedetizadoras), o **[Blue Rose Eternize](https://bluerose-store.com/eternize.html)** (cerimonial e casamentos) e o **[Blue Rose Ofixl](https://bluerose-store.com/ofixl.html)** (serviços técnicos).
+
+[🌐 Ver todos os sistemas](https://bluerose-store.com/sistemas.html) · [🖥️ Sites e automação](https://bluerose-store.com/servicos.html) · [🧪 Laboratório de automações](https://bluerose-store.com/laboratorio.html)
 
 ## Sobre mim
 
 Sou Cauã, desenvolvedor e fundador da Blue Rose Express. Gosto de pegar uma rotina que parece complicada e transformar num sistema claro: entender o fluxo do negócio, organizar as etapas e deixar à vista o que importa para o dono.
 
-Por trás da Blue Rose também roda o **Escritório Blue Rose**, um escritório virtual em pixel art onde agentes de IA pesquisam empresas, escrevem e-mails, montam propostas e prévias. Tudo o que sai para o cliente passa pela minha aprovação.
+Por trás da Blue Rose também roda o **Escritório Blue Rose**, um escritório virtual em pixel art onde agentes de IA pesquisam empresas, escrevem e-mails, montam propostas e prévias de sites. Tudo o que sai para o cliente passa pela minha aprovação.
 
 ## Projetos abertos
 
-- **[Nexo Gestão (StockMaster)](https://github.com/CauaCaetano/App-Controle-de-Estoque):** controle de estoque com FastAPI, MongoDB e React; é a base do Nexo Gestão. [Abrir demonstração](https://bluerose-store.com/demos/stockmaster/)
-- **[Site da Blue Rose](https://github.com/CauaCaetano/bluerose-store):** o site [bluerose-store.com](https://bluerose-store.com/), com as demonstrações dos sistemas.
-- **[Mammon Capital](https://cauacaetano.github.io/mammon-capital-site/):** site do Mammon Capital, um projeto paralelo de agentes de IA para operar a própria conta na Binance.
+- **[StockMaster](https://github.com/CauaCaetano/App-Controle-de-Estoque):** controle de estoque com FastAPI, MongoDB e React, que deu origem ao sistema de gestão. [Abrir demonstração](https://bluerose-store.com/demos/stockmaster/)
+- **[Site da Blue Rose](https://github.com/CauaCaetano/bluerose-store):** o site [bluerose-store.com](https://bluerose-store.com/), com as demonstrações dos sistemas e os sites de exemplo.
+- **[Mammon Capital](https://cauacaetano.github.io/mammon-capital-site/):** projeto paralelo de agentes de IA que operam a própria conta na Binance.
 
 ## Estudos e experimentos
 
@@ -65,9 +62,9 @@ Repositórios menores, da época de faculdade e de estudo de interfaces:
 ## Ferramentas que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,fastapi,nodejs,electron,supabase,mongodb,sqlite,git&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind, Python, FastAPI, Node.js, Electron, Supabase, MongoDB, SQLite e Git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,fastapi,nodejs,electron,supabase,postgres,mongodb,git&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind, Python, FastAPI, Node.js, Electron, Supabase, PostgreSQL, MongoDB e Git" />
   <br /><br />
-  <sub>APIs REST · Webhooks · PIX · automação de WhatsApp · IA aplicada com aprovação humana</sub>
+  <sub>APIs REST · Webhooks · PIX e Mercado Pago · NF-e · automação de WhatsApp · IA aplicada com aprovação humana</sub>
 </div>
 
 ---
