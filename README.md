@@ -17,7 +17,7 @@
 
 A Blue Rose Express tira a pequena empresa da planilha, do caderno e do grupo de WhatsApp. A **Veltria** é a nossa linha de sistemas: **24 sistemas prontos**, para **8 ramos**, cada um em três versões (Essencial, Completo e Avançado). Funcionam no computador e no celular, com a equipe toda.
 
-- **Teste antes de assinar:** demonstração aberta no site e **7 dias grátis** com os seus dados, sem cartão.
+- **Teste antes de assinar:** demonstração aberta no site e **7 dias grátis** com os seus dados (cadastre o cartão; nada é cobrado nos 7 dias).
 - **Assinatura mensal sem fidelidade**, de **R$ 49 a R$ 299 por mês**, com 20% de desconto no plano anual.
 - **Sites profissionais**, prontos em 3 a 10 dias úteis, e **automações de WhatsApp** que respondem, cobram e lembram sozinhas.
 - **Assistente virtual com IA** no site e dentro dos sistemas, para tirar dúvidas na hora.
